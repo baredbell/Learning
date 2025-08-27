@@ -12,7 +12,6 @@ import java.nio.file.Paths;
 
 public final class TestResource
 {
-
     private TestResource()
     {
         throw new IllegalStateException("This utility class must not be initialized.");
